@@ -98,9 +98,8 @@
         };
 
         extra2 {
-                status = "reserved";
-            };
-        }
+            status = "reserved";
+        };
 
         extra3 {
             status = "reserved";
